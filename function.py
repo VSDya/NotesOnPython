@@ -1,5 +1,5 @@
 import file_operation
-import Note
+import note
 import ui
 
 number = 6  # сколько знаков МИНИМУМ может быть в тексте заметки

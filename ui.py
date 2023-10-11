@@ -1,4 +1,4 @@
-import Note
+import note
 
 
 def create_note(number):

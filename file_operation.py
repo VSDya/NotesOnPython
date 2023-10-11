@@ -1,4 +1,4 @@
-import Note
+import note
 
 
 def write_file(array, mode):
